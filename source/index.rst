@@ -14,6 +14,8 @@ Welcome to LeetCode's documentation!
    Problems/3.Longest_Substring_Without_Repeating_Characters
    Problems/7.Reverse_Integer
    Problems/9.Palindrome_Number
+   Problems/35.Search_Insert_Position
+   Problems/43.Multiply_Strings
    Problems/49.Group_Anagrams
 
 
