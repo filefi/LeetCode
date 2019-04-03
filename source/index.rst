@@ -1,9 +1,9 @@
-.. NotesOfLearningPython documentation master file, created by
-   sphinx-quickstart on Mon Mar 25 10:30:19 2019.
+.. LeetCode documentation master file, created by
+   sphinx-quickstart.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Notes Of Learning Python's documentation!
+Welcome to LeetCode's documentation!
 =================================================
 
 .. toctree::
