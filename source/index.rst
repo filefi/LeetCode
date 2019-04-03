@@ -17,6 +17,7 @@ Welcome to LeetCode's documentation!
    Problems/35.Search_Insert_Position
    Problems/43.Multiply_Strings
    Problems/49.Group_Anagrams
+   Problems/50.Pow(x,n)
 
 
 Indices and tables
