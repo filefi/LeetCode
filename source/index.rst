@@ -11,6 +11,7 @@ Welcome to LeetCode's documentation!
    :caption: Contents:
 
    Problems/1.Two_Sum
+   Problems/2.Add_Two_Numbers
    Problems/3.Longest_Substring_Without_Repeating_Characters
    Problems/7.Reverse_Integer
    Problems/9.Palindrome_Number
