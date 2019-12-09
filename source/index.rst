@@ -18,6 +18,7 @@ Welcome to LeetCode's documentation!
    Problems/9.Palindrome_Number.md
    Problems/14.Longest_Common_Prefix.md
    Problems/20.Valid Parentheses.md
+   Problems/21.Merge Two Sorted Lists.md
    Problems/35.Search_Insert_Position.md
    Problems/43.Multiply_Strings.md
    Problems/49.Group_Anagrams.md
