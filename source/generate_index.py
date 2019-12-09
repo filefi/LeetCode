@@ -23,13 +23,13 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 '''
-	
+	base_dir = os.path.dirname(os.path.abspath(__file__))
 	files = ''
-	d = {int(i.split('.')[0]):i for i in os.listdir('Problems/')}
+	d = {int(i.split('.')[0]):i for i in os.listdir(base_dir + os.sep + 'Problems/')}
 	sorted_filenames = [d.get(i) for i in sorted(d)]
 	for i in sorted_filenames:
 		files += '   Problems/'+ i +'\n'
-	with open('index.rst','w') as f:
+	with open(base_dir + os.sep + 'index.rst','w') as f:
 		f.write(s.format(files=files))
 
 if __name__ == '__main__':

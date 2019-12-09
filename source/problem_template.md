@@ -1,16 +1,29 @@
-# 标题
-## 问题描述
-### 英文
+# 标题 (Title)
 
+## 问题描述
+
+### 英文
 
 ### 中文
 
+## 解决方案
 
-## Solution
 ### Python
+
+#### 方法 1 (Method 1):
+
 ```python
 
 
 ```
 
-#### Submissions
+
+
+##### 执行结果 (Submissions):
+
+### JavaScript
+
+
+### Go
+
+
